@@ -1,5 +1,5 @@
 # Data_Structures_simple_Implimentations_using_C
-This repository contains the implimentations of all the operations on a linked list using C programming language
+This repository contains the implimentations of all the operations on all the data structures using C programming language
 
 <ul>
   <li>
