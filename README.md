@@ -8,4 +8,7 @@ This repository contains the implimentations of all the operations on all the da
   <li>
     Array implimentation of Stack contains operations like push , pop , isEmpty , isFull.
   </li>
+  <li>
+    Linked lists implimentation of Stack contains operations like push , pop , isEmpty , isFull.
+  </li>
 </ul>
